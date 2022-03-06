@@ -51,7 +51,7 @@ while pilihan=="y":
         ppn = "-"
         diskon = "-"
         totalharga = "-"
-        pilihan=input("menu tidak tersedia, silahkan masukkan abjad menu yang tersedia silahkan ulangi kembali YA/TIDAK =")
+        pilihan=input("menu tidak tersedia, silahkan masukkan nomor menu yang tersedia silahkan ulangi kembali YA/TIDAK =")
  
     print("--------------------------")
     print("ITA TEH ORIGINAL")
